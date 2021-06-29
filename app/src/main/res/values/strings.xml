@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test_1</string>
+    <string name="button_name_2">Send2</string>
+    <string name="button_name_1">Send</string>
+    <string name="edit_message">Hola Mundo</string>
+
+</resources>
